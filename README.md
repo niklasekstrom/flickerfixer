@@ -9,9 +9,9 @@ After ordering, receiving and soldering the PCB I then wrote Verilog code that s
 
 The next stage is to design a stand-alone board that contains an [FPGA](https://www.mouser.se/ProductDetail/Intel-Altera/10M02SCE144C8G?qs=G%2FX6g08h60tD7HZOc4xZbg%3D%3D) chip and an [SDRAM](https://www.mouser.se/ProductDetail/ISSI/IS42S16400J-6TL?qs=sGAEpiMZZMti5BT4iPSEnRbV70NKySN8V%252BBluA5se8I%3D) chip.
 
-Here are some pictures:
+Some pictures:
 
-![Components](Images/components.jpg)
-![Assembled with Denise](Images/assembled_with_denise.jpg)
-![Cable to DE10-Lite](Images/cable_to_de10-lite.jpg)
-![Workbench in 640x512 (interlaced) that is output to VGA at 1280x1024](Images/workbench_640x512_to_1280x1024.jpg)
+|         |            |
+| ------------- |---------------|
+| ![Components](Images/components.jpg) | ![Assembled with Denise](Images/assembled_with_denise.jpg) |
+|![Cable to DE10-Lite](Images/cable_to_de10-lite.jpg) | ![Workbench in 640x512 (interlaced) that is output to VGA at 1280x1024](Images/workbench_640x512_to_1280x1024.jpg) |
