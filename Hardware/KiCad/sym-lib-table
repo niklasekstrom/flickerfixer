@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name 8373_deniseecs-amigacustomchips)(type Legacy)(uri ${KIPRJMOD}/8373_deniseecs-amigacustomchips.lib)(options "")(descr ""))
+  (lib (name my-symbols)(type Legacy)(uri ${KIPRJMOD}/my-symbols.lib)(options "")(descr ""))
+)

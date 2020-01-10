@@ -1,0 +1,16 @@
+HDL/1280x800/db/
+HDL/1280x800/incremental_db/
+HDL/1280x800/output_files/
+HDL/1280x800/greybox_tmp/
+HDL/1280x800/.qsys_edit/
+HDL/1280x800/*.bak
+HDL/1280x800/*.qws
+HDL/1280x800/*.rpt
+HDL/1280x1024/db/
+HDL/1280x1024/incremental_db/
+HDL/1280x1024/output_files/
+HDL/1280x1024/greybox_tmp/
+HDL/1280x1024/.qsys_edit/
+HDL/1280x1024/*.bak
+HDL/1280x1024/*.qws
+HDL/1280x1024/*.rpt
