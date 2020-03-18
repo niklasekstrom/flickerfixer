@@ -63,24 +63,24 @@ Wire Wire Line
 Wire Wire Line
 	8350 9850 8150 9850
 $Comp
-L my-symbols:SN74CBTD16211 U4
+L my-symbols:SN74CBT16211A U4
 U 1 1 5E26362A
 P 9150 6650
 F 0 "U4" H 9150 8265 50  0000 C CNN
-F 1 "SN74CBTD16211" H 9150 8174 50  0000 C CNN
+F 1 "SN74CBT16211A" H 9150 8174 50  0000 C CNN
 F 2 "Package_SO:TSSOP-56_6.1x14mm_P0.5mm" H 9150 8000 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/sn74cbtd16211.pdf" H 9150 8000 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/sn74cbt16211a.pdf" H 9150 8000 50  0001 C CNN
 	1    9150 6650
 	-1   0    0    1   
 $EndComp
 $Comp
-L my-symbols:SN74CBTD16211 U3
+L my-symbols:SN74CBT16211A U3
 U 1 1 5E266625
 P 9100 2700
 F 0 "U3" H 9100 4315 50  0000 C CNN
-F 1 "SN74CBTD16211" H 9100 4224 50  0000 C CNN
+F 1 "SN74CBT16211A" H 9100 4224 50  0000 C CNN
 F 2 "Package_SO:TSSOP-56_6.1x14mm_P0.5mm" H 9100 4050 50  0001 C CNN
-F 3 "http://www.ti.com/lit/ds/symlink/sn74cbtd16211.pdf" H 9100 4050 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/sn74cbt16211a.pdf" H 9100 4050 50  0001 C CNN
 	1    9100 2700
 	-1   0    0    1   
 $EndComp
